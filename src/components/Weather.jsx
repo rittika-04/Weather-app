@@ -57,7 +57,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search('London'); // Default city
+    search('Kolkata'); // Default city
   }, []);
 
   const handleSearch = () => {
