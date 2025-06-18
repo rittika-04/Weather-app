@@ -24,8 +24,9 @@ CSS for styling
 JavaScript (ES6+)
 
 📸 Demo
-🔗 Live Preview: Click here to view the app
-nstallation
+You can view a live demo of the portfolio [[here](https://weather-app-bay-eight-51.vercel.app/)].
+
+⚙️ Installation
 Clone the repository
 
 bash
