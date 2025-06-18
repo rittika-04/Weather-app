@@ -25,7 +25,7 @@ JavaScript (ES6+)
 
 📸 Demo
 Live Preview
-(Replace with your deployed link if available)
+![Image](https://github.com/user-attachments/assets/d0f6bba0-db32-4c0b-b2c1-5112765c6e88)
 
 nstallation
 Clone the repository
