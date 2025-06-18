@@ -25,7 +25,7 @@ JavaScript (ES6+)
 
 📸 Demo
 Live Preview
-![Image](https://github.com/user-attachments/assets/d0f6bba0-db32-4c0b-b2c1-5112765c6e88)
+You can view a live demo of the portfolio [[here] (https://weather-app-bay-eight-51.vercel.app/)].
 
 nstallation
 Clone the repository
