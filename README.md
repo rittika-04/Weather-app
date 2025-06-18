@@ -1,12 +1,91 @@
-# React + Vite
+🌦️ Weather App
+A sleek and simple Weather App built using React JS, allowing users to check current weather conditions by city name using the OpenWeatherMap API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- Replace with actual screenshot if available -->
 
-Currently, two official plugins are available:
+🚀 Features
+🌍 Get real-time weather information by city
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌡️ Displays temperature, weather condition, humidity, and wind speed
 
-## Expanding the ESLint configuration
+🔄 Dynamic weather icons based on conditions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Responsive UI using CSS
+
+🔍 City search functionality
+
+🛠️ Tech Stack
+React JS
+
+OpenWeatherMap API
+
+CSS for styling
+
+JavaScript (ES6+)
+
+📸 Demo
+Live Preview
+(Replace with your deployed link if available)
+
+nstallation
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Get an OpenWeatherMap API key
+
+Sign up at https://openweathermap.org/api
+
+Replace the API key in the Weather.jsx file:
+
+js
+Copy
+Edit
+const API_KEY = "YOUR_API_KEY_HERE";
+Start the app
+
+bash
+Copy
+Edit
+npm run dev
+or
+
+bash
+Copy
+Edit
+npm start
+📁 Project Structure
+pgsql
+Copy
+Edit
+weather-app/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   └── Weather.jsx
+        └── Weather.css
+│   ├── App.jsx
+│   ├── index.js
+│   └── Weather.css
+├── package.json
+└── README.md
+❗ Troubleshooting
+401 Unauthorized Error: Make sure you have entered a valid API key.
+
+CORS Issues: Use a proxy or CORS proxy service if needed during development.
+
+📜 License
+This project is open-source and available under the MIT License.
+
+🙋‍♀️ Author
+Made with ❤️ by Rittika Shaw
